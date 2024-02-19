@@ -1,8 +1,4 @@
-package Atest
-
-import (
-	"fmt"
-)
+package testing
 
 func FindMax(table []int, Size int) int{
 	max := 0
