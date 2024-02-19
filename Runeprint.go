@@ -1,4 +1,4 @@
-package Atest
+package testing
 
 import (
 	"errors"
